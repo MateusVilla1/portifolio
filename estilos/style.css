@@ -56,4 +56,5 @@ footer  { display:flex;
     justify-content: center;
 
 }
-.container {padding: 0px 50px;}
+.container {padding: 0px 50px;
+margin: auto;}
